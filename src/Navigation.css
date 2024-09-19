@@ -1,0 +1,29 @@
+.navbar {
+    background:whitesmoke; 
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end; 
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center; 
+  }
+  
+  .link {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px; 
+    font-size: 18px;
+  }
+  
+  .cart-icon {
+    margin-left: 20px; 
+    font-size: 20px;
+    color: blue; 
+    cursor: pointer; 
+  }
+  

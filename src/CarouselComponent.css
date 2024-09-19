@@ -1,0 +1,5 @@
+.carousel-item img {
+    height: 69vh; /* Set the desired height for the images */
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+  }
+  
